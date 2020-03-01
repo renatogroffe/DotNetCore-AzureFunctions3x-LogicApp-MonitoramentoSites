@@ -1,0 +1,10 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "BaseLog": "UseDevelopmentStorage=true",
+    "Sites": "https://github.com|https://stackoverflow.com|https://siteinvalido.com.br",
+    "UrlLogicAppAlerta": "https://prod-22.eastus.logic.azure.com:443/workflows/6acc56071e984309a5df78ae66dc69d1/triggers/manual/paths/invoke?api-version=2016-10-01&sp=%2Ftriggers%2Fmanual%2Frun&sv=1.0&sig=Hox3wVgQPhW5g0PM8u2qwBQrWZSDxgpSyHNIGo7Ch5Q",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet"
+  }
+}
